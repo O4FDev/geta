@@ -15,7 +15,7 @@
     "@t3-oss/env-nextjs": "^0.11.1",
     "@tanstack/react-query": "^5.62.8",
     "@tanstack/react-query-devtools": "^5.62.8",
-    "next": "15.1.0",
+    "next": "15.1.2",
     "next-intl": "^3.26.2",
     "posthog-js": "^1.202.2",
     "react": "^19.0.0",
